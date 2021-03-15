@@ -2,7 +2,7 @@
     - sm37 : batch job
 
 > SAP TABLE   
-    - KNA1, KNB1, KNVV : 거래처마스터  
+- KNA1, KNB1, KNVV : 거래처마스터  
     - MARM, MVKE, MARA : 자재마스터  
     - AFRU, AUFM : ?  
     - VBAP, VBAK, VBRP, VBRK : 거래명세표 / 대금청구 테이블  
