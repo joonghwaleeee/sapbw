@@ -17,6 +17,7 @@
     - rsdkyf : infoobject 속성값 변경
     - suim  : 잠금 이력
     - sm12 : 잠금 리스트 
+    - st22 : dump description
 
 > TABLE LIST 
 - SAP
