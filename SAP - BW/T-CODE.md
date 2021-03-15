@@ -1,7 +1,8 @@
 > SAP T-CODE  
     - sm37 : batch job
 
-> SAP TABLE   
+> TABLE LIST 
+- SAP
     - KNA1, KNB1, KNVV : 거래처마스터  
     - MARM, MVKE, MARA : 자재마스터  
     - AFRU, AUFM : ?  
@@ -11,7 +12,7 @@
     - SM58  
     - FAGLFLEXT, KS03, FS10N, FGI5 : 회계   
 
-> BW TABLE  
+- BW
     - RSRRPEDIR : 정보제공자로 BEX QUERY 조회  
     - RSD1 : Infoobject 조회  
     - RSZDELETE : BEx 쿼리 삭제  
